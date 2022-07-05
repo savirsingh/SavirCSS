@@ -11,3 +11,9 @@ Add the following code to your head tag:
 
 ### See all the styles
 View the [Everything Page](https://savirsingh.github.io/SavirCSS/everything).
+
+### Documentation & help
+See the [Official Docs](https://savirsingh.github.io/SavirCSS/docs).
+
+### Feedback & support
+For feedback/support, create an issue or email kopichiki@gmail.com.
