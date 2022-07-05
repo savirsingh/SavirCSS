@@ -10,4 +10,4 @@ Add the following code to your head tag:
 ```
 
 ### See all the styles
-View the [Everything Page](https://savirsingh.github.io/SavirCSS/everything)
+View the [Everything Page](https://savirsingh.github.io/SavirCSS/everything).
