@@ -7,3 +7,4 @@
 Add the following code to your head tag:
 ```
 <link rel="stylesheet" href="https://savirsingh.github.io/SavirCSS/main.css">
+```
