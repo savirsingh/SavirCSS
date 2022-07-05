@@ -62,6 +62,7 @@ button {
   overflow: hidden;
   background-color: indigo;
   font-size: 20px;
+  position: fixed;
 }
 
 .navigation-top a {
