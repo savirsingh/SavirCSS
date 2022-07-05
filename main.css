@@ -11,6 +11,15 @@ body {
   cursor:url(cursor.png), auto;
 ::-webkit-scrollbar {
   width: 20px;
+	::-moz-selection {
+  color: white;
+  background: purple;
+}
+
+::selection {
+  color: white;
+  background: purple;
+}
 }
 
 ::-webkit-scrollbar-track {
