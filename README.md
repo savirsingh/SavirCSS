@@ -14,7 +14,7 @@ View the [Everything Page](https://savirsingh.github.io/SavirCSS/everything).
 
 ### Icons
 We have amazing custom icon styles!
-Check out the [Icons Page](https://savirsingh.github.io/SavirCSS/icons)
+Check out the [Icons Page](https://savirsingh.github.io/SavirCSS/icons).
 
 
 ### Documentation & help
