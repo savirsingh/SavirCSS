@@ -23,7 +23,7 @@ We have amazing custom icon styles and are always adding more!
 Check out the [Icons Page](https://savirsingh.github.io/SavirCSS/icons).
 
 ### Fonts
-The main body font included with SavirCSS is called SavirCSS Font and is not available for redistribution, just like everything else provided by the library.
+The main body font included with SavirCSS is called SavirCSS Font and is not available for separate distribution. It also cannot be redistributed, just like everything else provided by the library.
 
 
 ### Documentation & help
