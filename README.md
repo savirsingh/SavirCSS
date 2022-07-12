@@ -14,6 +14,8 @@ View the [Everything Page](https://savirsingh.github.io/SavirCSS/everything).
 
 ### Icons!
 ![basic-smile](https://user-images.githubusercontent.com/84334654/178381126-9997c5cf-5274-4be2-b918-f3c11bb7a9fd.png)
+![basic-sussy](https://user-images.githubusercontent.com/84334654/178381205-705603f4-faca-4685-ac4d-45056f73f33b.png)
+
 We have amazing custom icon styles!
 Check out the [Icons Page](https://savirsingh.github.io/SavirCSS/icons).
 
