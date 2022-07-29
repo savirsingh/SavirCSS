@@ -34,7 +34,8 @@ For feedback/support, create an issue or email kopichiki@gmail.com.
 
 #### Used by:
 
-![181853345-e717b2d5-ebe8-498b-94f3-91689504dce2](https://user-images.githubusercontent.com/84334654/181853674-bb76adc8-7081-4d29-b848-4ad1312bd8d8.png)
+![181853345-e717b2d5-ebe8-498b-94f3-91689504dce2](https://user-images.githubusercontent.com/84334654/181852960-aa792341-d6e9-4c7b-b7ee-d2d1e19e8d29.png)
 ![181853345-e717b2d5-ebe8-498b-94f3-91689504dce2](https://user-images.githubusercontent.com/84334654/181853571-78d1e293-0a4f-4612-b273-1659805cb9f9.png)
+
 
 
