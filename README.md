@@ -34,5 +34,6 @@ For feedback/support, create an issue or email kopichiki@gmail.com.
 
 #### Used by:
 <img src="https://user-images.githubusercontent.com/84334654/181852960-aa792341-d6e9-4c7b-b7ee-d2d1e19e8d29.png" style="background-color: white" width="10%">
+<img src="https://user-images.githubusercontent.com/84334654/181853345-e717b2d5-ebe8-498b-94f3-91689504dce2.png" style="background-color: white" width="10%">
 
 
