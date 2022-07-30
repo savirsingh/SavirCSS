@@ -15,7 +15,7 @@ View the [Everything Page](https://savirsingh.github.io/SavirCSS/everything).
 ### Use SavirCSS JS
 Unlock more things that can't be done with CSS alone.
 
-Import SavirCSS JS by downloading version 0.8 or later or importing SavirCSS online and copying this code:
+Import SavirCSS JS by downloading version 0.8 or later or importing SavirCSS online and adding this code:
 
 <code><script src="https://savirsingh.github.io/SavirCSS/js/main.js"></script></code>
 
