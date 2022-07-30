@@ -17,7 +17,9 @@ Unlock more things that can't be done with CSS alone.
 
 Import SavirCSS JS by downloading version 0.8 or later or importing SavirCSS online and adding this code:
 
-<code><script src="https://savirsingh.github.io/SavirCSS/js/main.js"></script></code>
+```
+<script src="https://savirsingh.github.io/SavirCSS/js/main.js"></script>
+```
 
 ### Icons!
 ![basic-smile](https://user-images.githubusercontent.com/84334654/178381126-9997c5cf-5274-4be2-b918-f3c11bb7a9fd.png)
