@@ -12,6 +12,13 @@ Add the following code to your head tag:
 ### See all the styles
 View the [Everything Page](https://savirsingh.github.io/SavirCSS/everything).
 
+### Use SavirCSS JS
+Unlock more things that can't be done with CSS alone.
+
+Import SavirCSS JS by downloading version 0.8 or later or importing SavirCSS online and copying this code:
+
+<code><script src="https://savirsingh.github.io/SavirCSS/js/main.js"></script></code>
+
 ### Icons!
 ![basic-smile](https://user-images.githubusercontent.com/84334654/178381126-9997c5cf-5274-4be2-b918-f3c11bb7a9fd.png)
 ![basic-sussy](https://user-images.githubusercontent.com/84334654/178381205-705603f4-faca-4685-ac4d-45056f73f33b.png)
